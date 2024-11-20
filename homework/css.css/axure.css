@@ -1,11 +1,67 @@
 .axure {
+  background-image: url('../img/axure.background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 38px 0 38px;
+  
+  
+  
+  
 }
 
-.about-background {
-  
+ 
+
+.title-axure {
+  color: #FFFFFF;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  margin: 10px 0 40px;
+ 
+ 
 }
-.about-background-img {
-  background-position: center center;
-  background-size: cover;
+.axure-line {
+  font-family: 'Raleway';
+  height: 2px;
+  width: 64px;
+  background-color: #FFFFFF;
+  margin: auto;
+}
+.about-axure-text {
+  width: 800px;
+  margin: 10px auto 0px;
   
+
+
+}
+.about-axure-text p{
+  font-size: 16px;
+  font-family: 'Raleway';
+  font-weight: 300;
+  text-align: center;
+  color: #FFFFFF 80%;
+  line-height: 19px;
+  
+ 
+}
+.axure-link {
+  width: 135px;
+  height: 42px;
+  border: 2px solid #FFFFFF;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.axure-link-download {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+  color: #FFFFFF;
+  line-height: 20px;
+  margin: auto;
 }

@@ -4,6 +4,7 @@
   width: 100%;
   background-color: #F5F5F5;
   padding: 80px 0 59px;
+  
 }
 .title {
   width: 409px;
@@ -37,6 +38,8 @@
 }
 .price-wrap {
   width: 340px;
+  padding-bottom: 57px;
+  
 }
 .price-title {
   background-color: #333333;
@@ -70,8 +73,8 @@
   color: #86878B;
   margin-bottom: 2px;
 }
-.price-text {
-  
+.price-text-name {
+  background-color: #FFFFFF;
   padding: 1px 0 11px;
   font-family: 'Open Sans';
   font-weight: 400;
