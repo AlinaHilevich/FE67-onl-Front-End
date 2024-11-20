@@ -1,0 +1,38 @@
+.header {
+  background-color: #000000;
+  padding: 10px 0;
+}
+
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo a {
+  text-transform: uppercase;
+	font-family: 'Raleway';
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35px;
+}
+.logo-title:first-child {
+  color: #FFFFFF;
+
+}
+.logo-title:last-child {
+  color: #EC7979;
+}
+ 
+.navigation-list {
+  display: flex;
+}
+.navigation-list-text {
+  margin-left: 48px;
+}
+.navigation-list-text a {
+  color: #FFFFFF;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 20px;
+  
+}
