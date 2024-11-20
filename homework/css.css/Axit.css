@@ -31,8 +31,11 @@
 }
 .navigation-list-text a {
   color: #FFFFFF;
+  color: rgba (0.7);
+  font-family: 'Open Sans';
 	font-size: 15px;
 	font-weight: 600;
 	line-height: 20px;
+  
   
 }
